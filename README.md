@@ -1,4 +1,4 @@
-# Note 
+## Note 
 
 To run  :
 PS D....   \react-weather-app> npm run start
