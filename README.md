@@ -6,7 +6,9 @@ PS D....   \react-weather-app> npm run start
  To run our project locally, you will have to run npm i before ng serve. That's widely accepted as a standard.
  1. clone our repository
  2. run "npm -i"
- 3. ng serve
+ 3. ng serve.
+
+Screenshots of the project are attached in the screenshot folder.
  
 
 
